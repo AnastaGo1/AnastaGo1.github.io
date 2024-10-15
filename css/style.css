@@ -26,7 +26,7 @@
     height: 100px;
 }
 /* нормальное изображение на телефонах */
-@media screen and (max-width: 390px){
+@media screen and (max-width: 720px){
     .container{
         /* background:red; */   /* фон меняется при маленьком расширении */ 
     }
